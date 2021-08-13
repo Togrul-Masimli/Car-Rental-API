@@ -1,0 +1,15 @@
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.deps.json
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.dll
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.pdb
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.AssemblyReference.cache
+E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.AssemblyInfoInputs.cache
+E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.AssemblyInfo.cs
+E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.CoreCompileInputs.cache
+E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.CopyComplete
+E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.dll
+E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.pdb
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.runtimeconfig.json
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.runtimeconfig.dev.json
+E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.genruntimeconfig.cache
