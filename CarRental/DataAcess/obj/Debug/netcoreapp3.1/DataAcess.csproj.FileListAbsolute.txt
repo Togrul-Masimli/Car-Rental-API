@@ -13,3 +13,5 @@ E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.pdb
 E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.runtimeconfig.json
 E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.runtimeconfig.dev.json
 E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.genruntimeconfig.cache
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Core.dll
+E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Core.pdb

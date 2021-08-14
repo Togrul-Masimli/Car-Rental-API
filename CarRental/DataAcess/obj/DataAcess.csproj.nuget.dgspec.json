@@ -4,6 +4,72 @@
     "E:\\Car-Rental-API\\CarRental\\DataAcess\\DataAcess.csproj": {}
   },
   "projects": {
+    "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Togrul\\.nuget\\packages\\",
+        "outputPath": "E:\\Car-Rental-API\\CarRental\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Togrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\Car-Rental-API\\CarRental\\DataAcess\\DataAcess.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -33,6 +99,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj": {
+                "projectPath": "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj"
+              },
               "E:\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj": {
                 "projectPath": "E:\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj"
               }
@@ -107,7 +176,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj": {
+                "projectPath": "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

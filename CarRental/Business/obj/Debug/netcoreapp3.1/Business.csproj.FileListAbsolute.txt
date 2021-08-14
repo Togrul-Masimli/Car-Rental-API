@@ -12,3 +12,5 @@ E:\Car-Rental-API\CarRental\Business\obj\Debug\netcoreapp3.1\Business.csproj.Cor
 E:\Car-Rental-API\CarRental\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 E:\Car-Rental-API\CarRental\Business\obj\Debug\netcoreapp3.1\Business.dll
 E:\Car-Rental-API\CarRental\Business\obj\Debug\netcoreapp3.1\Business.pdb
+E:\Car-Rental-API\CarRental\Business\bin\Debug\netcoreapp3.1\Core.dll
+E:\Car-Rental-API\CarRental\Business\bin\Debug\netcoreapp3.1\Core.pdb
