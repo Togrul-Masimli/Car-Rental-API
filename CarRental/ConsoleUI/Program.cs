@@ -12,9 +12,11 @@ namespace ConsoleUI
         {
             //TestCarDetails();
 
-            CarManager carManager = new CarManager(new EfCarDal());
 
-            var result = carManager.Add(new Car { BrandId = 1, ColorId = 1, DailyPrice = 70, ModelYear = 2007, Description = "E270 Diesel" });
+
+            RentalManager rentalManager = new RentalManager(new EfRentalDal());
+
+            var result = rentalManager.Add(new Rental { CarId = 1, CustomerId = 1, RentDate = DateTime.Now.AddDays(-5), ReturnDate = DateTime.Now.AddDays(-2) });
 
             if (result.Success)
             {

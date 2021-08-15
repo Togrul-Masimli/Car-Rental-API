@@ -17,9 +17,17 @@ namespace Business.Concrete
         }
         public IResult Add(Rental rental)
         {
-            _rentalDal.Add(rental);
+            if (rental.ReturnDate != null)
+            {
+                _rentalDal.Add(rental);
 
-            return new SuccessResult();
+                return new SuccessResult("New Rental Added");
+            }
+            else
+            {
+                return new ErrorResult("Cannot Add Rental");
+            }
+
         }
 
         public IResult Delete(Rental rental)
