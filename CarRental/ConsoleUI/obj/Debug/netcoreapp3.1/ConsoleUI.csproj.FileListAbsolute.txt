@@ -61,3 +61,7 @@ E:\Car-Rental-API\CarRental\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\n
 E:\Car-Rental-API\CarRental\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 E:\Car-Rental-API\CarRental\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 E:\Car-Rental-API\CarRental\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+E:\Car-Rental-API\CarRental\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\Car-Rental-API\CarRental\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+E:\Car-Rental-API\CarRental\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\Car-Rental-API\CarRental\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
