@@ -10,3 +10,4 @@ E:\Car-Rental-API\CarRental\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
 E:\Car-Rental-API\CarRental\Entities\bin\Debug\netcoreapp3.1\Core.dll
 E:\Car-Rental-API\CarRental\Entities\bin\Debug\netcoreapp3.1\Core.pdb
 E:\Car-Rental-API\CarRental\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+E:\Car-Rental-API\CarRental\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig

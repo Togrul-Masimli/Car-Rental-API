@@ -6,8 +6,6 @@ E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
-E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -15,9 +13,7 @@ E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrame
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -71,3 +67,13 @@ E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.De
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Car-Rental-API\CarRental\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Car-Rental-API\CarRental\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
