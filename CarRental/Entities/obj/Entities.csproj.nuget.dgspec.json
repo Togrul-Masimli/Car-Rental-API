@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj": {
+    "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Togrul\\.nuget\\packages\\",
-        "outputPath": "E:\\Car-Rental-API\\CarRental\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Togrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,18 +93,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj": {
+    "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "E:\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Togrul\\.nuget\\packages\\",
-        "outputPath": "E:\\Car-Rental-API\\CarRental\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Togrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,8 +121,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj": {
-                "projectPath": "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj"
+              "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Core\\Core.csproj"
               }
             }
           }
@@ -151,7 +151,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebAPI.Controllers
 {
@@ -20,14 +21,17 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet("getall")]
+        [Authorize(Roles = "getColors")]
         public IActionResult GetAll()
         {
-            var result = _colorService.GetAll();
-            if (result.Success)
+            var colors = new List<Color>()
             {
-                return Ok(result);
-            }
-            return BadRequest(result);
+                new Color() {Id = 1, Name = "White"},
+                new Color() {Id = 2, Name = "Black"},
+                new Color() {Id = 3, Name = "Orange"}
+            };
+
+            return Ok(colors);
         }
 
         [HttpPost("add")]

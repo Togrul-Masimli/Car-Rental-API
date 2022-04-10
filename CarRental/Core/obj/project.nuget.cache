@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e/C2pDfqIe7SOReqKInYqag8kx/cY5A4Sw9OA0c8pFC2S75Ea/emMftX+lBy3W6sMsUsVTiAQAtMGqEjD7m/Iw==",
+  "dgSpecHash": "AvUU2eUf2wpABuAqHH7vsg8swTWyLW2Tx7uoan2e0pPL2NTZo+EBw5bIKvG3iztLBr74CiDTuHL+c3Sne6MkRQ==",
   "success": true,
-  "projectFilePath": "E:\\Car-Rental-API\\CarRental\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Togrul\\Desktop\\Gateway Authentication\\Car-Rental-API\\CarRental\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Togrul\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\Togrul\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",

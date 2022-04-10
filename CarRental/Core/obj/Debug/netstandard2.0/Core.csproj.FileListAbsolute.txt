@@ -8,3 +8,13 @@ E:\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompil
 E:\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.dll
 E:\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.pdb
 E:\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\Core\obj\Debug\netstandard2.0\Core.pdb

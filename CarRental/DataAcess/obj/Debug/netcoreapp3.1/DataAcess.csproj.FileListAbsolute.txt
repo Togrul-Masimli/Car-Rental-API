@@ -16,3 +16,21 @@ E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.genrunti
 E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Core.dll
 E:\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Core.pdb
 E:\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.deps.json
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.runtimeconfig.json
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.runtimeconfig.dev.json
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.dll
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\DataAcess.pdb
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.AssemblyReference.cache
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.AssemblyInfoInputs.cache
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.AssemblyInfo.cs
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.CopyComplete
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.dll
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.pdb
+C:\Users\Togrul\Desktop\Gateway Authentication\Car-Rental-API\CarRental\DataAcess\obj\Debug\netcoreapp3.1\DataAcess.genruntimeconfig.cache

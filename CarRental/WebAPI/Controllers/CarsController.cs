@@ -21,15 +21,15 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet("getall")]
-        // [Authorize(Roles = "Cars.List")]
+        [Authorize(Roles = "getCars")]
         public IActionResult GetAll()
         {
-            var result = _carService.GetAll();
-            if (result.Success)
+            var car = new Car()
             {
-                return Ok(result);
-            }
-            return BadRequest(result);
+                Id = 1, Description = "Brand New", BrandId = 1, ColorId = 1, DailyPrice = 150, ModelYear = 2008,
+                CarImages = null
+            };
+            return Ok(car);
         }
 
         [HttpGet("getbybrandid")]
